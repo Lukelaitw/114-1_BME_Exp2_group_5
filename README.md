@@ -1,8 +1,8 @@
-# BME Lab 2 - Arduino Bluetooth ECG Monitoring System
+# BME Lab 2 - Arduino Bluetooth ECG/EMG Monitoring System
 
 ## Project Overview
 
-This is a Bluetooth ECG (Electrocardiogram) monitoring system based on Flutter and Arduino, designed for biomedical engineering experiments. The system can collect, transmit, and display ECG signals in real-time, providing heart rate monitoring functionality.
+This is a Bluetooth ECG (Electrocardiogram) and EMG (Electromyography) monitoring system based on Flutter and Arduino, designed for biomedical engineering experiments. The system can collect, transmit, and display ECG/EMG signals in real-time, providing heart rate monitoring functionality.
 
 ## Technical Architecture
 
