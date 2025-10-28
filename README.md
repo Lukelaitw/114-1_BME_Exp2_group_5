@@ -129,13 +129,8 @@ HEARTBEAT:status               # Heartbeat status
 
 **Group 5** - 114-1 BME Lab 2
 - Designed for biomedical engineering experiments
-- National Taiwan University Department of Biomedical Engineering
+- National Taiwan University Department of Electrical Engineering
 
-## Version History
-
-- **v1.0.0** - Initial version with basic functionality
-- **v1.0.1** - Optimized Bluetooth connection stability
-- **v1.0.2** - Improved ECG signal processing algorithms
 
 ## License
 
